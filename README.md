@@ -1,5 +1,6 @@
 # MineSweeper
-MineSweeper HTML game based on JScript
+<b>MineSweeper HTML game based on JScript</b>
+
 When game starts,a window prompt appears and asks you to type a number which is amount of mines.
 Each correct click gives you 10 points and program adds it into your current score which is on the left of the screen.
 When you press a mine,you can see all other mines and your overall score.Overal score is amount of mine multiplied by 
